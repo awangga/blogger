@@ -7,3 +7,4 @@ Please replace this caracter using
 * < : &lt;
 * " : &quot;
 * ' : &#39;
+Or you can just use Blogger's XML parser to convert css
