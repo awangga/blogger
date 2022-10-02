@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'><head><b:if cond='data:blog.isMobile'><meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/><b:else/><meta content='width=device-width' name='viewport'/></b:if><b:include data='blog' name='all-head-content'/><title><data:blog.pageTitle/></title> &lt;style type=&quot;text/css&quot;&gt; &lt;!-- /*<b:skin><![CDATA[.column-left-outer {margin-left:0; }#ttr_content{float: left;}table.gsc-search-box td {display: block;} */]]></b:skin>
 
-<link href='https://rawcdn.githack.com/awangga/blogger/8b2b9f4f7e6c4c2cbcd59248be0d9358de4b170d/bootstrap4.1.3.blogger.css' 
+<link href='https://rawcdn.githack.com/awangga/blogger/c495a8203d3852081219740705f026a9c4be17f9/css/bootstrap/bootstrap4.1.3.blogger.css' 
   rel='stylesheet' media='all' type='text/css'/>
 
 <b:include data='blog' name='google-analytics'>
